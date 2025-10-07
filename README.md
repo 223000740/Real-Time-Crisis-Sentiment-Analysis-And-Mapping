@@ -22,7 +22,7 @@ The application uses a microservices-style architecture to separate concerns and
    - Receives the request and acts as an API gateway.  
    - Forwards the message text to the ML service for analysis.
 
-3. **ML Service (Python Flask API)**  
+3. **ML Service (Python FAST API)**  
    - A pre-trained Transformer model (using a zero-shot classification pipeline) classifies the text as "urgent" or "not urgent."  
    - Returns the prediction and a confidence score.
 
@@ -40,7 +40,7 @@ The application uses a microservices-style architecture to separate concerns and
 |------------|----------------------------------|
 | Frontend   | HTML, CSS, JavaScript, Leaflet.js |
 | Backend    | Java, Spring Boot, Maven         |
-| ML Service | Python, Flask, Hugging Face Transformers |
+| ML Service | Python, FAST, Hugging Face Transformers |
 | Database   | MongoDB                          |
 
 ---
@@ -73,3 +73,4 @@ Follow these steps to run the entire application stack locally.
 ```bash
 git clone https://github.com/YashVS15112004/Real-Time-Crisis-Sentiment-Analysis.git
 cd Real-Time-Crisis-Analysis
+
